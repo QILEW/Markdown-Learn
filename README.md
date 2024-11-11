@@ -1,4 +1,4 @@
-# Markdown-Study
+# Markdown-Learn
 记录一下使用 VS Code 来学习 Markdown 的过程。
 # <center>Markdown入门学习</center>
 <center>Qilew       2024/11/11</center>
